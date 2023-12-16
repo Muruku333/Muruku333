@@ -1,6 +1,5 @@
 Hey Guys 👋
-MasterHead
-<h1 align="center">Hi 👋, I'm Still-not-found</h1>
+<h1 align="center">Hi 👋, I'm Murugesh Kumar</h1>
 <h3 align="center">I'm A passionate frontend developer from chennai and a proud தமிழ் Guy</h3>
 <!--<img align="right" alt="coding" width="400" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%3Fid%3DOIP.4fNBO_UDYEVxM0E5T2FyJQHaFj%26pid%3DApi&f=1&ipt=f2a1ed99d38d9102935a997f499344e48aeedab86731db71da5a090c97010aab&ipo=images"> -->
 
